@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Habilidades</h2>
+<h3 align="left">Habilidades</h3>
 
 ###
 
@@ -30,12 +30,19 @@
 
 ###
 
+<h3 align="left">Contatos</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/thaisdesouzaradl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/thaisradl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="thaisdesouzaradl@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
