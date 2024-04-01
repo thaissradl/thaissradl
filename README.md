@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca de conhecimento e experiência em diversas áreas da tecnologia. Apaixonado por resolver problemas e aprender novas tecnologias, estou explorando diferentes caminhos dentro da computação, desde desenvolvimento web até análise de dados. Aberto a colaborações e sempre em busca de desafios que me permitam expandir meu conhecimento e contribuir para projetos inovadores.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca de conhecimento e experiência em diversas áreas da tecnologia. Apaixonada por resolver problemas e aprender novas tecnologias, estou explorando diferentes caminhos dentro da computação, desde desenvolvimento web até análise de dados. Aberto a colaborações e sempre em busca de desafios que me permitam expandir meu conhecimento e contribuir para projetos inovadores.</p>
 
 ###
 
