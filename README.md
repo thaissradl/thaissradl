@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca de conhecimento e experiência em diversas áreas da tecnologia. Apaixonada por resolver problemas e aprender novas tecnologias, estou explorando diferentes caminhos dentro da computação, desde desenvolvimento web até análise de dados. Aberto a colaborações e sempre em busca de desafios que me permitam expandir meu conhecimento e contribuir para projetos inovadores.</p>
+<p align="left">Formada em Análise e Desenvolvimento de Sistemas (ADS), estou focada em me desenvolver como Web Front-End Developer. Gosto de criar interfaces modernas, funcionais e bem pensadas, unindo lógica e criatividade. Estou em constante aprendizado e sempre buscando evoluir através de projetos práticos e novos desafios na área de desenvolvimento web.</p>
 
 ###
 
